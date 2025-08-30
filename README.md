@@ -7,7 +7,7 @@ BTech Student | Python Developer | Data Enthusiast 🚀
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📫 How to reach me:
-LinkedIn(www.linkedin.com/in/fenilamin)
-Email(fenilamin49@gmail.com)
+-LinkedIn(www.linkedin.com/in/fenilamin)
+-Email(fenilamin49@gmail.com)
 
 
